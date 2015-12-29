@@ -1,0 +1,23 @@
+{
+  "name": "mocha-testing",
+  "version": "1.0.0",
+  "description": "Basic Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raeesaa/mocha-testing.git"
+  },
+  "author": "Raeesaa M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raeesaa/mocha-testing/issues"
+  },
+  "homepage": "https://github.com/raeesaa/mocha-testing",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
